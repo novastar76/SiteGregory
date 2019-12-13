@@ -2,14 +2,15 @@
 
 
 p { /* Couleur de text de nav */
-  color: red;
+  color: black;
 }
 body {
-  background-color: black;
+  background-color: #fff;
 }
 
 nav{
-  width: 100%;
+  margin-top: 50px;
+  width: auto;
   text-align: center;
 }
 nav ul li{
@@ -32,15 +33,48 @@ nav ul li a:visited {
   color: #999;
 }
 nav ul li a:visited:hover {
-  background: #fff;
+  background: #999;
   color: #009;
+  opacity: 50%;
 }
 nav ul li a:hover { /* Couleur d'arrière plan des boutons de "bande"*/
-  background: #587;
-  color: #fff;
-  opacity: 0.5;
+  background: #fff;
+  color: #785;
+  opacity: 2;
 }
 nav ul li a:active {
   background: #000;
   color: #f00;
+}
+
+form {
+  background-color: darksalmon;
+  width: 600px;
+  padding: 20px;
+}
+
+form div {
+  padding: 10px 0;
+}
+
+form div label {
+  float: left;
+  width: 240px;
+  padding: 0 10px 0 0;
+  text-align: right;
+}
+
+form div input[type="submit"] {
+  background-color: red;
+  color: yellow;
+  font-size: 1.5em;
+  margin: 0 0 0 250px;
+}
+
+form fieldset {
+  outline: 2px solid red;
+}
+
+form textarea {
+  font-family: Verdana, Arial, sans-serif;
 }

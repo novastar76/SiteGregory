@@ -7,7 +7,6 @@
   </head>
 
   <body>
-    <div id="wrap">
       <nav>
           <ul>
             <li><a href="index.php?page=accueil" title="Retour à la page d'accueil"><p>Accueil</p></a></li>
@@ -19,6 +18,5 @@
 
           </ul>
       </nav>
-   </div>
 </body>
 </html>
