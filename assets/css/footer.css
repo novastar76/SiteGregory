@@ -1,0 +1,7 @@
+footer p {
+  animation: 3s slidein;
+  width:auto;
+  height:200px;
+  background-color: #71001a;
+  :1px solid #785;
+}

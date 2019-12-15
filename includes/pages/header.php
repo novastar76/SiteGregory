@@ -3,11 +3,17 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/footer.css">
     <title>GregoSite</title>
   </head>
 
 <header>
-  <img src="./img/ban.png" alt="">
+
+  <div id="image">
+    <img src="./img/happynoel.png" alt="">
+  </div>
+
+<div id="nav">
     <nav>
         <ul>
           <li><a href="index.php?page=accueil" title="Retour à la page d'accueil"><p>Accueil</p></a></li>
@@ -18,10 +24,15 @@
           <li><a href="index.php?page=mentions" title="mentions"><p>mentions légale</p></a></li>
         </ul>
     </nav>
-    
+</div>
+
 </header>
 
-  <body>
+
+
+<body>
 
 </body>
+
+
 </html>

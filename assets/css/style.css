@@ -2,22 +2,61 @@
 
 header {
   text-align: center;
+  animation: 3s slidein;
 }
-p { /* Couleur de text de nav */
+
+#accueil{
+  margin-top: 90px;
+  font-size: 30px;
+  text-align: center;
+}
+
+iframe {
+  margin-top: 5.1%;
+  margin-left: 30%;
+}
+#nav p { /* Couleur de text de nav */
   color: black;
+  font: arial, verdana, sans-serif;
+  font-size: 20px;
 }
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+
+    75% {
+  font-size: 300%;
+  margin-left: 25%;
+  width: 150%;
+    }
+  }
+}
+
+@media screen and (max-width:991px) {
+}
+
 body {
-  background-color: #fff;
+  background: url(neige-01.gif); /*Gif dans css, j'ai po compris le chemin ne marcher pas ??? */
+  background-size: 100%;
+  background-color: black;
 }
 
 nav {
-  margin-top: -180px;
+  margin-left: 280px;
+  margin-top: -120px;
   width: auto;
   text-align: center;
 }
 nav ul li{
   display: inline-block; /* alignement de "bande" fonctionne avec "li" */
-  width: 10%;
+  width: 12%;
 }
 nav ul li a {
   display: block;
@@ -34,13 +73,13 @@ nav ul li a:visited {
   color: #999;
 }
 nav ul li a:visited:hover {
-  background: #999;
+  background: red;
   color: #009;
-  opacity: 50%;
+  opacity: 1%;
 }
 nav ul li a:hover { /* Couleur d'arrière plan des boutons de "bande"*/
   background: #fff;
-  color: #785;
+  color: #450;
   opacity: 2;
 }
 nav ul li a:active {
