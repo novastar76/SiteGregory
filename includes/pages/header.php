@@ -6,17 +6,22 @@
     <title>GregoSite</title>
   </head>
 
-  <body>
-      <nav>
-          <ul>
-            <li><a href="index.php?page=accueil" title="Retour à la page d'accueil"><p>Accueil</p></a></li>
-            <li><a href="index.php?page=contact" title="Nous contacter"><p>Contact</p></a></li>
-            <li><a href="index.php?page=galerie" title="Photos"><p>Galerie</p></a></li>
-            <li><a href="index.php?page=inscription" title="Vous inscrir"><p>inscription</p></a></li>
-            <li><a href="index.php?page=cv" title="mon cv"><p>cv</p></a></li>
-            <li><a href="index.php?page=mentions" title="mentions"><p>mentions légale</p></a></li>
+<header>
+  <img src="./img/ban.png" alt="">
+    <nav>
+        <ul>
+          <li><a href="index.php?page=accueil" title="Retour à la page d'accueil"><p>Accueil</p></a></li>
+          <li><a href="index.php?page=contact" title="Nous contacter"><p>Contact</p></a></li>
+          <li><a href="index.php?page=galerie" title="Photos"><p>Galerie</p></a></li>
+          <li><a href="index.php?page=inscription" title="Vous inscrir"><p>inscription</p></a></li>
+          <li><a href="index.php?page=cv" title="mon cv"><p>cv</p></a></li>
+          <li><a href="index.php?page=mentions" title="mentions"><p>mentions légale</p></a></li>
+        </ul>
+    </nav>
+    
+</header>
 
-          </ul>
-      </nav>
+  <body>
+
 </body>
 </html>
