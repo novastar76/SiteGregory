@@ -1,6 +1,6 @@
 footer p {
-  animation: 3s slidein;
-  width:auto;
+  margin-left: 18px;
+  margin-right: 18px;
   height:200px;
   background-color: #71001a;
   :1px solid #785;
