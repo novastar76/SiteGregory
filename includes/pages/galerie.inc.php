@@ -22,15 +22,8 @@
             <a href="./img/image1.jpg">
             <img src="./img/image1.jpg" alt="" />
             </a>
-            <a href="./img/image1.jpg">
-            <img src="./img/image1.jpg" alt="" />
-            </a>
-            <a href="./img/image1.jpg">
-            <img src="./img/image1.jpg" alt="" />
-            </a>
-            <a href="./img/image1.jpg">
-            <img src="./img/image1.jpg" alt="" />
-            </a>
+       </li>
+       <li>
             <a href="./img/image1.jpg">
             <img src="./img/image1.jpg" alt="" />
             </a>
@@ -44,8 +37,7 @@
             <img src="./img/image1.jpg" alt="" />
             </a>
        </li>
-       </ul>
-
-    </div>
+     </ul>
+   </div>
   </body>
 </html>

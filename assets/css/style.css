@@ -6,6 +6,7 @@ header {
 
 iframe {
   width: auto;
+  margin-right: 1200px;
 }
 
 #nav p { /* Couleur de text de nav */
@@ -14,9 +15,16 @@ iframe {
   font-size: 20px;
 }
 
-@media screen and (max-width:991px) {
+#hd img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 5px;
 }
 
+body .ment {
+  margin-left: 200px;
+  margin-right: 200px;
+}
 body .ment h1 {
   color: red;
   font-weight: bold;
@@ -24,22 +32,19 @@ body .ment h1 {
 }
 body {
   margin: 10px 0;
-  padding: 0 ;
   text-align: center;
   background-size: 100%;
   background-color: white;
 }
 
 nav {
-  margin-left: 280px;
-  margin-top: -120px;
-  margin-bottom: 80px;
-  width: auto;
-  text-align: center;
+  margin-bottom: 5px;
+  max-width: 100%;
+  height: auto;
 }
 nav ul li{
   display: inline-block; /* alignement de "bande" fonctionne avec "li" */
-  width: 12%;
+  width: 19.3%;
 }
 nav ul li a {
   display: block;

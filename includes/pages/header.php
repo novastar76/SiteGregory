@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="fr" dir="ltr">
   <head>
     <header>
 
@@ -8,7 +8,7 @@
       <link rel="stylesheet" href="./assets/css/footer.css">
       <title>GregoSite</title>
 
-      <div id="image">
+      <div id="hd">
         <img src="./img/happynoel.png" alt="">
       </div>
 
