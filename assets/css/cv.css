@@ -11,20 +11,26 @@ hr { /*Ligne horizontale*/
   border: none;
 }
 
-body h1 { /*Grégory Leguay*/
+body .cv1 h1 { /*Grégory Leguay*/
   margin-top: 40px;
   font-size: 2.5em;
-  margin-left: 100px;
+  margin-left: 150px;
 }
 
-body h3 { /* à propos de moi */
+body .cv1 h3 { /* à propos de moi */
   font-size: 1.3em;
-  margin-left: 90px;
+  margin-left: 150px;
   color: red;
 }
 
+body .cv1 h5 { /*TEXT EXPERIENCE PRO*/
+  font-size: 1.5em;
+  padding-top: 10px;
+  padding-left: 140px;
+}
+
 body .cv1 { /* base du cv (rectangle) */
-  width:600px;height:1000px;border:2px solid #000;
+  width:600px;height:550px;border:2px solid #000;
   display: inline-block;
   background-color: #D2E111;
   background-image: url(https://image.noelshack.com/fichiers/2020/02/2/1578404574-fondcv.jpg);
@@ -33,25 +39,45 @@ body .cv1 { /* base du cv (rectangle) */
 }
 
 body .cv1 p { /* text */
-  margin-left: 150px;
-  text-align: left;
+  margin-left: 155px;
+  text-align: center;
 }
 
-#rond { /* Image cv */
+body .cv1 #rond { /* Image cv */
   position:absolute;
   width: 110px;
   height: 110px;
   border-radius: 55px;
   background-image: url(https://image.noelshack.com/fichiers/2020/02/2/1578401821-test.png);
   top: 6px;
-  left: 7px;
+  left: 19px;
 }
 
-#verticale { /* bah ligne verticale pardy */
-  position:absolute;
-  height: 1000px;
-  padding-right: 60px;
-  border-right: 2px solid black;
-  left: 60px;
-  top: -5px;
+body .cv2 { /* côté gauche du cv */
+  width:150px;height:550px;border:2px solid #000;
+  position: absolute;
+  display: inline-block;
+  bottom: -2px;
+  left: -2px;
+}
+
+body .cv2 h1 { /* EXPERTISE */
+  margin-top: 140px;
+  margin-left: auto;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+body .cv2 h3 { /*INTERET*/
+  color:black;
+}
+
+body .cv2 p { /* Informations */
+  margin-left: auto;
+  text-align: center;
+}
+
+
+#expert p {
+
 }

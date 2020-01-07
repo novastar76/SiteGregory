@@ -1,6 +1,7 @@
 @import url("reset.css");
 
 
+
 @media screen and (min-width: 600px) {
 
 header {
@@ -49,10 +50,30 @@ nav ul li{
   display: inline-block; /* alignement de "bande" fonctionne avec "li" */
   width: 19.3%;
 }
+
+nav ul li ul { /* sous menu */
+  display: inherit;
+}
 nav ul li a {
   display: block;
   height: 40px;
   line-height: 40px;
+}
+
+nav ul li ul {
+  position: absolute;
+  /* on cache les sous menus complètement sur la gauche */
+  left: -999em;
+  text-align: left;
+  z-index: 1000;
+}
+
+nav ul li:hover ul { /* sous menu hover */
+  left: auto;
+  background: #fff;
+  color: #450;
+  opacity: 2;
+  width:100%;
 }
 
 nav ul li a:link {
