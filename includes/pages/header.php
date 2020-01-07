@@ -4,6 +4,7 @@
     <header>
 
       <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet" href="./assets/css/style.css">
       <link rel="stylesheet" href="./assets/css/footer.css">
       <title>GregoSite</title>
@@ -22,8 +23,7 @@
               <li><a href="index.php?page=mentions" title="mentions"><p>mentions légale</p></a></li>
             </ul>
         </nav>
-    </div>
-
+      </div>
     </header>
   </head>
 

@@ -1,5 +1,8 @@
 @import url("reset.css");
 
+
+@media screen and (min-width: 600px) {
+
 header {
   text-align: center;
 }
@@ -107,4 +110,5 @@ form fieldset {
 
 form textarea {
   font-family: Verdana, Arial, sans-serif;
+}
 }
