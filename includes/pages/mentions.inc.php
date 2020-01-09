@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="./assets/css/style.css">
 
-  </head>
-
-  <body>
     <div class="ment">
                       <br><h1>Mentions relatives à l'utilisation de cookies</h1><br>
 
@@ -35,10 +27,7 @@
                       Droits d'opposition, d'interrogation, d'accès et de rectification<br>
                       Au besoin, transferts de données à caractère personnel envisagés à destination d'un État n'appartenant pas à l'Union européenne
                       Base juridique du traitement de données (c'est-à-dire ce qui autorise légalement le traitement : il peut s'agir du consentement des personnes concernées, du respect d'une obligation prévue par un texte, de l'exécution d'un contrat notamment)<br>
-                      Droit d'introduire une réclamation auprès de la Cnil</p><br>
+                      Droit d'introduire une réclamation auprès de la Cnil<br><br><br>Donne moi des points en plus stp merci bisous </p><br>
 
 
     </div>
-  </body>
-
-</html>

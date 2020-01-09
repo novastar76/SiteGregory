@@ -7,6 +7,9 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet" href="./assets/css/style.css">
       <link rel="stylesheet" href="./assets/css/footer.css">
+      <link rel="stylesheet" href="./assets/css/cv.css">
+      <link rel="stylesheet" href="./assets/css/cvanglais.css">
+      <link rel="stylesheet" href="./assets/css/galeries.css">
       <title>GregoSite</title>
 
       <div id="hd">

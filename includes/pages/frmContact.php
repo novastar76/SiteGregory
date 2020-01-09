@@ -1,6 +1,8 @@
+<div class="testt">
+
 <form action="index.php?page=contact" method="post">
   <fieldset>
-    <legend>Donne-moi tes données</legend>
+    <legend>Michou le fou</legend>
   <div>
     <label for="nom">Nom :</label>
     <input type="text" name="nom" id="nom" value="<?=$nom ?>" />
@@ -13,8 +15,6 @@
     <label for="mail">e-mail :</label>
     <input type="email" name="mail" id="mail" value="<?=$mail ?>" />
   </div>
-  </fieldset>
-  <fieldset>
     <div>
       <label for="tel">Téléphone :</label>
       <input type="text" name="tel" id="tel" value="<?=$tel ?>" />
@@ -29,3 +29,5 @@
   </fieldset>
   <input type="hidden" name="frmContact" />
 </form>
+
+</div>

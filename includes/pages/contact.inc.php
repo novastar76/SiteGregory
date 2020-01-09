@@ -38,14 +38,14 @@ if (isset($_POST['frmContact'])) {
     }
     else {
         $sql = "INSERT INTO clients
-        (nom, prenom, mail, message)
+        (nom, prenom, mail, tel, msg)
         VALUES ('" . $nom . "', '" . $prenom . "', '" . $mail ."', '" . $tel ."', '" . $msg ."')";
         $query = $pdo->prepare($sql);
         $query->bindValue('nom', $nom, PDO::PARAM_STR);
         $query->bindValue('prenom', $prenom, PDO::PARAM_STR);
         $query->bindValue('mail', $mail, PDO::PARAM_STR);
         $query->bindValue('tel', $tel, PDO::PARAM_STR);
-        $query->bindValue('message', $msg, PDO::PARAM_STR);
+        $query->bindValue('msg', $msg, PDO::PARAM_STR);
         $query->execute();
         echo "Enregistrement OK";
       }
