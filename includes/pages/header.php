@@ -19,16 +19,11 @@
               <li><a href="index.php?page=accueil" title="Retour à la page d'accueil"><p>Accueil</p></a></li>
               <li><a href="index.php?page=contact" title="Nous contacter"><p>Contact</p></a></li>
               <li><a href="index.php?page=galerie" title="Photos"><p>Galerie</p></a></li>
-              <li><a href="index.php?page=cv" title="mon cv"><p>cv</p></a>
-                <ul>
-                  <li><a href="index.php?page=cvanglais" title="mon cv Anglais"><p>Anglais</p></a></li>
-                </ul>
+              <li><a href="index.php?page=cv" title="mon cv"><p>cv</p></a></li>
               <li><a href="index.php?page=mentions" title="mentions"><p>mentions légale</p></a></li>
             </ul>
         </nav>
       </div>
     </header>
   </head>
-
-
-</html>
+<body>

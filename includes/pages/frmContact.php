@@ -15,12 +15,16 @@
   </div>
   </fieldset>
   <fieldset>
+    <div>
+      <label for="tel">Téléphone :</label>
+      <input type="text" name="tel" id="tel" value="<?=$tel ?>" />
+    </div>
   <div>
     <label for="msg">Message :</label>
     <textarea name="msg" id="msg"><?=$msg ?></textarea>
   </div>
   <div>
-    <input type="submit" value="Clique-moi grand fou !" />
+    <input type="submit" value="Valider" />
   </div>
   </fieldset>
   <input type="hidden" name="frmContact" />

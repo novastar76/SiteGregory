@@ -10,10 +10,10 @@
     <div id="rond"></div>
     <div id="verticale"></div>
     <div class="cv2"><h1>E X P E R T I S E</h1><p><br>WebDesign AdobePS<br>HTML/CSS WebMarketing<br>WordPress<br><br>Téléphone: 06.43.06.59.82<h2><br><br>R E F E R E N C E S<br></h2><br>Professeur,<br> Frédéric NOEL - Codeur Dev<br><h4><br><br>I N T É R Ê T</h4><br>Internet, Voyage, Moto, Japon</p>
+      <br><a href="index.php?page=cvanglais" title="cvAnglais">>Cv Anglais<</a>
 
 
 
       </div></div>
     </div>
-  </body>
-</html>
+  

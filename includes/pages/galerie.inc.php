@@ -10,22 +10,22 @@
 
        <ul>
        <li>
-            <a href="./img/image1.jpg">
-            <img src="./img/image1.jpg" alt="" />
+            <a href="./img/oui1.jpg">
+            <img src="./img/oui1.jpg" alt="" />
             </a>
-            <a href="./img/image1.jpg">
-            <img src="./img/image1.jpg" alt="" />
+            <a href="./img/oui2.png">
+            <img src="./img/oui2.png" alt="" />
             </a>
-            <a href="./img/image1.jpg">
-            <img src="./img/image1.jpg" alt="" />
+            <a href="./img/oui3.jpg">
+            <img src="./img/oui3.jpg" alt="" />
             </a>
-            <a href="./img/image1.jpg">
-            <img src="./img/image1.jpg" alt="" />
+            <a href="./img/oui4.jpg">
+            <img src="./img/oui4.jpg" alt="" />
             </a>
        </li>
        <li>
-            <a href="./img/image1.jpg">
-            <img src="./img/image1.jpg" alt="" />
+            <a href="./img/oui5.jpg">
+            <img src="./img/oui5.jpg" alt="" />
             </a>
             <a href="./img/image1.jpg">
             <img src="./img/image1.jpg" alt="" />
@@ -39,5 +39,3 @@
        </li>
      </ul>
    </div>
-  </body>
-</html>

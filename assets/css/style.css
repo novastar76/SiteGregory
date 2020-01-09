@@ -39,6 +39,7 @@ body {
   text-align: center;
   background-size: 100%;
   background-color: white;
+  height: 100%;
 }
 
 nav {
@@ -58,22 +59,6 @@ nav ul li a {
   display: block;
   height: 40px;
   line-height: 40px;
-}
-
-nav ul li ul {
-  position: absolute;
-  /* on cache les sous menus complètement sur la gauche */
-  left: -999em;
-  text-align: left;
-  z-index: 1000;
-}
-
-nav ul li:hover ul { /* sous menu hover */
-  left: auto;
-  background: #fff;
-  color: #450;
-  opacity: 2;
-  width:100%;
 }
 
 nav ul li a:link {
@@ -102,7 +87,7 @@ nav ul li a:active {
 form {
   margin-left: auto;
   margin-right: auto;
-  background-color: darksalmon;
+  background-color: darkgrey;
   width: 600px;
   padding: 20px;
 }
@@ -119,15 +104,12 @@ form div label {
 }
 
 form div input[type="submit"] {
-  background-color: red;
+  background-color: grey;
   color: yellow;
   font-size: 1.5em;
   margin: 0 0 0 250px;
 }
 
-form fieldset {
-  outline: 2px solid red;
-}
 
 form textarea {
   font-family: Verdana, Arial, sans-serif;
