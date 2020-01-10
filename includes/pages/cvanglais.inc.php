@@ -3,7 +3,8 @@
       <div id="rond"></div>
       <div id="verticale"></div>
       <div class="cv2"><h1>E X P E R T I S E</h1><p><br>WebDesign AdobePS<br>HTML/CSS WebMarketing<br>WordPress<br><br>Téléphone: 06.43.06.59.82<h2><br><br>R E F E R E N C E S<br></h2><br>Professor,<br> Frédéric NOEL - Codeur Dev<br><h4><br><br>I N T E R E S T</h4><br>Internet, Voyage, Moto, Japon</p>
-        <br><a href="index.php?page=cv" title="cvFrançais">>Cv Français<</a>
+        <br><a href="index.php?page=cv" title="cvFrançais">>Cv Français<</a> <br><a href="img/cveng.png"
+        download="Cv grégory leguay anglais">Télécharger cv anglais</a>
 
 
 
