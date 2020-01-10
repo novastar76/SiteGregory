@@ -63,12 +63,6 @@
             <a href="https://imgflip.com/i/3lpqd3"><img src="https://i.imgflip.com/3lpqd3.jpg" title="made at imgflip.com"/></a>
 
        </li>
-       <li>
-            <a href="https://imgflip.com/i/3lpp5a"><img src="https://i.imgflip.com/3lpp5a.jpg" title="made at imgflip.com"/></a>
-            <a href="https://imgflip.com/i/3lpq0a"><img src="https://i.imgflip.com/3lpq0a.jpg" title="made at imgflip.com"/></a>
-            <a href="https://imgflip.com/i/3lpqa6"><img src="https://i.imgflip.com/3lpqa6.jpg" title="made at imgflip.com"/></a>
-            <a href="https://imgflip.com/i/3lpqd3"><img src="https://i.imgflip.com/3lpqd3.jpg" title="made at imgflip.com"/></a>
 
-       </li>
      </ul>
    </div>
