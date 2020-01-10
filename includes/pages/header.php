@@ -23,7 +23,7 @@
               <li><a href="index.php?page=contact" title="Nous contacter"><p>Contact</p></a></li>
               <li><a href="index.php?page=galerie" title="Photos"><p>Galerie</p></a></li>
               <li><a href="index.php?page=cv" title="mon cv"><p>cv</p></a></li>
-              <li><a href="index.php?page=mentions" title="mentions"><p>mentions légale</p></a></li>
+              <li><a href="index.php?page=mentions" title="mentions"><p>mentions légales</p></a></li>
             </ul>
         </nav>
       </div>
