@@ -1,7 +1,13 @@
-@import url("reset.css");
 
-body .im ul li img {
-  height: 250px;
-  width: 300px;
-  margin-top: 10px;
+
+#carrousel img{
+    height:1000px;
+    width:auto;
+    margin:auto;
+    max-width: 500px;
+    max-height: 500px;
+}
+#carrousel ul li{
+    top:0;
+    left:0;
 }
